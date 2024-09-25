@@ -13102,6 +13102,9 @@
 	<!-- Fruit Radar -->
 	<item component="ComponentInfo{eu.quelltext.mundraub/eu.quelltext.mundraub.activities.StartupActivity}" drawable="fruitradar"/>
 
+	<!-- Fruitisimo CZ -->
+	<item component="ComponentInfo{com.fruitisimo.app/crc649b4602e48c1b68e7.SplashActivity}" drawable="fruitisimo"/>
+
 	<!-- Fruux -->
 	<item component="ComponentInfo{com.fruux.android/org.dmfs.tasks.TaskListActivity}" drawable="fruux"/>
 
@@ -21173,6 +21176,9 @@
 	<!-- MO BUS -->
 	<item component="ComponentInfo{bbsr.crut.mobus.tracker/bbsr.crut.mobus.tracker.SplashActivity}" drawable="mo_bus"/>
 
+	<!-- MOBI -->
+	<item component="ComponentInfo{com.mentz.dvbgullivrapp/com.mentz.dvbgullivrapp.MainActivity}" drawable="mobi"/>
+
 	<!-- moBiel YOU -->
 	<item component="ComponentInfo{de.hansecom.mobiellive/de.hansecom.activity.SplashActivity}" drawable="mobiel_you"/>
 
@@ -21711,6 +21717,9 @@
 
 	<!-- mpv-android -->
 	<item component="ComponentInfo{is.xyz.mpv/is.xyz.mpv.MainActivity}" drawable="mpv"/>
+
+	<!-- mRadio -->
+	<item component="ComponentInfo{cz.rozhlas.mujrozhlas/cz.rozhlas.mujrozhlas.MainActivity}" drawable="mradio"/>
 
 	<!-- MRepo -->
 	<item component="ComponentInfo{com.sanmer.mrepo/com.sanmer.mrepo.ui.activity.MainActivity}" drawable="mrepo"/>
@@ -27701,8 +27710,9 @@
 	<item component="ComponentInfo{at.zuggabecka.radiofm4/at.zuggabecka.radiofm4.gdpr.GdprActivity}" drawable="radiofm4"/>
 
 	<!-- Radio France -->
-	<item component="ComponentInfo{com.radiofrance.radio.radiofrance.android/com.radiofrance.kmp.application.MainActivity}" drawable="radiofrance"/>
-	<item component="ComponentInfo{com.radiofrance.radio.radiofrance.android/com.radiofrance.radio.radiofrance.android.screen.splash.SplashActivity}" drawable="radiofrance"/>
+	<item component="ComponentInfo{com.radiofrance.radio.radiofrance.android/com.radiofrance.kmp.application.MainActivity}" drawable="radio_france"/>
+	<item component="ComponentInfo{com.radiofrance.radio.radiofrance.android/com.radiofrance.radio.radiofrance.android.screen.splash.SplashActivity}" drawable="radio_france"/>
+
 
 	<!-- Radio Garden -->
 	<item component="ComponentInfo{com.jonathanpuckey.radiogarden/com.zoontek.rnbootsplash.RNBootSplashActivity}" drawable="radio_garden"/>
@@ -34827,7 +34837,7 @@
 	<!-- Tricount -->
 	<item component="ComponentInfo{com.tribab.tricount.android/com.tribab.tricount.android.view.activity.SplashActivity}" drawable="tricount"/>
 	<item component="ComponentInfo{com.tribab.tricount.android/com.bunq.tricount.android.ui.activity.LoadingTricountStartupInfoActivity}" drawable="tricount"/>
-	
+
 	<!-- TRIfA -->
 	<item component="ComponentInfo{com.zoffcc.applications.trifa/com.zoffcc.applications.trifa.StartMainActivityWrapper}" drawable="trifa"/>
 
